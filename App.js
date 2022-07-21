@@ -40,7 +40,6 @@ export default function App() {
         keyboardType="numeric"
       />
 
-
       <TouchableOpacity style={styles.button} onPress={handleSubmit}>
           <Text style={styles.buttontext}>Calcular</Text>
       </TouchableOpacity>
